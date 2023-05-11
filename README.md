@@ -1,4 +1,4 @@
-# privacy-policy
+Privacy Policy
 Introduction:
 We take your privacy seriously and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose your personal information in connection with our Shopify app. By using our app, you consent to the collection, use, and disclosure of your personal information as described in this Privacy Policy.
 
