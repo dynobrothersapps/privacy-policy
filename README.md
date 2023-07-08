@@ -1,6 +1,6 @@
 # Privacy Policy
 1. Introduction:
-We take your privacy seriously and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose your personal information in connection with our Shopify app (called "Dyno Auto Tag", referred as "app"). By using our app, you consent to the collection, use, and disclosure of your personal information as described in this Privacy Policy.
+We take your privacy seriously and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose your personal information in connection with our Shopify app (called "Dyno Auto Tag", "GPT Dyno Descriptions", or any app created by Dynobrothersapps, referred as "app"). By using our app, you consent to the collection, use, and disclosure of your personal information as described in this Privacy Policy.
 
 2. Types of Information Collected:
 We may collect information pertaining to your products from you when you use our app, mainly; product name and product descriptions. This information is stored in our database at Gadget.dev, our hosting platform, who has strict privacy policy procedures to maintain your privacy rights. We may also collect non-personal information such as your device type and IP address. We use this information to provide and improve our app, as well as to communicate with you about our products and services.
